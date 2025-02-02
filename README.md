@@ -82,3 +82,6 @@ This project was developed as an NLP-based sentiment analysis task using machine
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/81738103-5487-4bf5-98d6-200f5057c2b1)
+
+![Image](https://github.com/user-attachments/assets/e9440ca2-87ad-4be4-ad8e-c1760e9838b4)
